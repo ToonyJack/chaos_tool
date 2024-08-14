@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "utility",
+			"path": "utility"
+		},
+		{
+			"name": "exporter_data",
+			"path": "exporter_data"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,23 @@
+{
+    "filepath" : "C:\\Users\\chao.chen\\Documents\\untitled.fbx",
+    "use_custom_normals" : "True",
+    "use_subsurf" : "False",
+    "use_custom_props" : "True",
+    "use_custom_props_enum_as_string" : "True",
+    "use_image_search" : "True",
+    "colors_type" : "SRGB",
+    "global_scale" : "1.0",
+    "decal_offset" : "0.0",
+    "bake_space_transform" : "False",
+    "use_prepost_rot" : "True",
+    "use_manual_orientation" : "True",
+    "axis_forward" : "Y",
+    "axis_up" : "Z",
+    "use_anim" : "True",
+    "anim_offset" : "1.0",
+    "ignore_leaf_bones" : "False",
+    "force_connect_children" : "False",
+    "automatic_bone_orientation" : "False",
+    "primary_bone_axis" : "Y",
+    "secondary_bone_axis" : "X"
+}
